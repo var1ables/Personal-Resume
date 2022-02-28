@@ -1,0 +1,30 @@
+body {
+	background-color: #1E90FF;
+	color: white;
+	font-family: 'Georgia', Serif;
+				
+}
+
+h1{
+	color: #CDCDCD;
+}
+
+h3{
+	color: #CDCDCD;
+}
+
+hr{
+	color: #CDCDCD;
+}
+
+a:link {
+	color: #FEBC11;
+	background-color: transparent;
+	text-decoration: none;			
+}
+
+a:visited {
+	color: #A5ACAF;
+	background-color: transparent;
+	text-decoration: none;
+}
